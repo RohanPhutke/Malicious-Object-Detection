@@ -1,7 +1,7 @@
 # Malicious-Object-Detection
 Developed a malicious object detection system using YOLOv8 for initial detection. Refined results by analyzing image depth with Depth_Anything_v2 to verify object presence. Finally, classified detected objects as real or fake using a YOLO-based classifier, ensuring accurate and reliable detection.
 
-"**Malicious Object Detection System**  
+**Malicious Object Detection System**  
 
 This project focuses on the detection and classification of malicious objects in images, employing advanced deep learning techniques. It is designed to ensure high precision and reliability by leveraging multiple stages of object detection, depth analysis, and classification.  
 
@@ -38,6 +38,4 @@ Careful preprocessing ensured equal distribution across these classes, providing
 
 This project demonstrates the practical application of deep learning in safety-critical scenarios, making it a valuable tool for malicious object detection and prevention. The modular design also allows easy adaptation to other use cases involving object detection and classification.  
 
-For a detailed understanding, refer to `final.ipynb`, or run `oneShot.py` for quick results. We welcome feedback and contributions to enhance this system further."  
-
-Does this align with your vision for the description? Let me know if you’d like changes or additions!
+For a detailed understanding, refer to `final.ipynb`, or run `oneShot.py` for quick results. We welcome feedback and contributions to enhance this system further." 
